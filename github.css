@@ -262,7 +262,8 @@ table td:last-child {
 
 .cm-s-inner .cm-comment, .cm-s-inner.cm-comment{
     color: #404040ad;
-    font-weight: 600;
+    font-weight: 400;
+    color: #9d0303ad;
 }
 
 .CodeMirror-lines {
